@@ -1,1 +1,1 @@
-This is your Chrome extension which replaces a word or phrase with a different word or phrase. 
+a Chrome extension which replaces the word, "Trump" with "Bryan Adams"
